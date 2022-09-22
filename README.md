@@ -1,4 +1,4 @@
-Apicación desplegada :https://reactgifsapp.netlify.app
+Apicación desplegada: https://reactgifsapp.netlify.app
 
 
 # Getting Started with Create React App
